@@ -1,5 +1,5 @@
 ## Weather Dashboard Project  
-Created by Elite
+Created by Ammar Osmun
 
 This project is a Python based weather dashboard that pulls live data from a free weather API and displays it through a simple graphical interface. The goal is to learn how real applications are structured, how data moves through different parts of a program, and how to connect Python to real world services.
 
