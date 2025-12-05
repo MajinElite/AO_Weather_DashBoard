@@ -9,7 +9,7 @@ The app reads the API data, converting the response into useful values, and show
 
 Working on this application teaches several important skills that can be used in larger projects later. This includes:
 
-- How to work with Python APIs, including sending requests and reading JSON data  
+- How to work with Python APIs, including sending requests and reading JSON data  https://open-meteo.com/en/docs
 - How to use JSON files for saving and loading settings  
 - How to create a config system for API keys and user options  
 - How to build a Python GUI using Tkinter  
